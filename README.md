@@ -1,6 +1,6 @@
 ## 👋 Intro
 
-Hi there! My name is Stephen and I'm a Datacenter Ops Engineer based in Central USA 🇺🇸. I primarily build for Linux systems and I also do some front-end web development.
+Hi there! My name is Stephen and I'm a Production Operations Engineer based in Central USA 🇺🇸. I primarily build for Linux systems and I also do some front-end web development.
 
 ## 🥷 Where to find me.
 - [Website](https://sventhebright.com)
