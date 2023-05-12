@@ -6,7 +6,7 @@ Hi there! My name is Stephen and I'm a Production Operations Engineer based in C
 - [Site](https://stephensubra.github.io)
 
 ## 👨‍💻 Tools
-- **OS:** Windows 11/Ubuntu Server 20.04/Unraid
+- **OS:** Windows 11/Ubuntu Server 20.04/Unraid/EndeavorOS
 - **Editor:** Sublime Text 3
 - **PC:** Ryzen 5900x, 32GB 3600mhz RAM, Radeon 6950xt
 - **Monitors:** 2x Dell Ultrasharp TN Panels
