@@ -1,8 +1,7 @@
 ## 👋 Introduction
+ My name is Stephen and I'm a Production Operations Engineer based in Central USA 🇺🇸. I primarily build for Linux systems and I am a sucker for a well-documented docker container.
 
-Hi there! My name is Stephen and I'm a Production Operations Engineer based in Central USA 🇺🇸. I primarily build for Linux systems and I am a sucker for a well-documented docker container.
-
-## 🥷 Where to find me.
+## 🕵️ Where to find me.
 - [Blog](https://stephensubra.github.io)
 - [LinkedIn](https://www.linkedin.com/in/stephensubra/)
 
